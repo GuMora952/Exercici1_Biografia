@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="ca">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Biografia</title>
+  </head>
+  <body>
+    <h1> Biografia </h1>
+    <h4 style="font-family:Verdana"> Hola, aquesta es la meva biografia </h4>
+    <p style="font-family:Arial"> 
+      Soc en Guillem Mora, vaig neixer el 13 de Setembre de 2007. <br>
+      Tinc <strong> 16 anys. </strong> <br>
+      Ara mateix estic cursant 1r Batxillerat.  <br>
+      He programat una mica pel meu compte amb llenguatges com python i c++. <br>
+    </p>
+    <p style="color:red"> Dos de les optatives que he triar són programmació i robotica. <br>
+    </p>
+  </body>
+</html>
